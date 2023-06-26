@@ -1,5 +1,5 @@
 # 3D-Unet-Segmentation
-Implementation 3D-Unet on Keras for sandstone segmentation.</br>
+Implementation of 3D-Unet on Keras for sandstone segmentation.</br>
 <br>
 The repository contains two experiments [with](https://github.com/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation_with_Attention.ipynb) and [without](https://github.com/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb) the attention mechanism
 </br>
