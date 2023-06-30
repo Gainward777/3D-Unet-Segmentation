@@ -14,6 +14,10 @@ The repository contains two experiments:
 
 2) and [without](https://github.com/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb) it:
 </br>
+<br>
+![](3D-U-Net.jpg)
+</br>
+<br>
 <a href="https://colab.research.google.com/github/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 </b>
 <br>
