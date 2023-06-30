@@ -12,14 +12,13 @@ The repository contains two experiments:
 
 </br>
 
-2) and [without](https://github.com/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb) it:
-</br>
-<br>
+2) and [without](https://github.com/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb) it:</br>
 ![](3D-U-Net.jpg)
-</br>
 <br>
 <a href="https://colab.research.google.com/github/Gainward777/3D-Unet-Segmentation/blob/main/3D_Unet_Segmentation.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
-</b>
+</br>
+
+
 <br>
 <a href="https://drive.google.com/drive/folders/1HbzT_tLKZdcxpj8erUF6LqKcnd9rVCRd?usp=sharing">Download data from gdrive</a>
 </br>
